@@ -1,7 +1,7 @@
-### Software Engineer & Researcher
+### 📝 Software Engineer & Researcher
 - Software Engineer & Researcher at TmaxCloud Inc.
 
-### Current Interests
+### 💡 Current Interests
 - Deep Learning (Anomaly Detection)
 - Kubernetes
 - CI/CD and MLOps
