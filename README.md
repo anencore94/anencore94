@@ -1,5 +1,5 @@
-### 📝 Software Engineer & Researcher
-- Software Engineer & Researcher at TmaxCloud Inc.
+### 📝 MLOps Engineer
+- MLOps Engineer at MakinaRocks
 
 ### 💡 Current Interests
 - Deep Learning (Anomaly Detection)
